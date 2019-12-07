@@ -1,5 +1,5 @@
 class Deck
-
+  
 end
 
 class Card
